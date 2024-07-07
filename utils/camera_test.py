@@ -1,4 +1,4 @@
-rom camera import CameraHandler
+from camera import CameraHandler
 
 
 def main():
