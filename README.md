@@ -2,8 +2,6 @@
 
 ## Project 4: Machine Learning
 
-Solution code for [Robotics 102 Project 4: Machine Learning (Part 3: Robot Tour Guide)](https://robotics102.github.io/projects/a4.html#tour_guide).
-
 Website: https://sites.google.com/umich.edu/diyaandjames-p4/home
 
 ## Setup
